@@ -1,2 +1,3 @@
-# PROJECT2-Economy-analysis-by-using-Pandas
+# PROJECT2-Country GDP-analysis-by-using-Pandas & Seaborn
+
 Economy analysis by using Pandas
